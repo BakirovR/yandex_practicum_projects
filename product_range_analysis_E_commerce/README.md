@@ -35,3 +35,7 @@
 
 ## Используемые библиотеки
 * Pandas, Matplotlib, Numpy, Seaborn,  Datetime, Re, Pymystem3,  Collections, Scipy  *
+
+## Ссылка на дашборд
+
+Дашборд: <https://public.tableau.com/shared/4R3ZMJCY5?:display_count=n&:origin=viz_share_link>
