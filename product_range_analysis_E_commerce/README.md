@@ -34,7 +34,7 @@
 Провести анализ товарного ассортимента интернет-магазина товаров для дома и быта.
 
 ## Используемые библиотеки
-* Pandas, Matplotlib, Numpy, Seaborn,  Datetime, Re, Pymystem3,  Collections, Scipy  *
+*Pandas, Matplotlib, Numpy, Seaborn,  Datetime, Re, Pymystem3,  Collections, Scipy*
 
 ## Ссылка на дашборд
 
