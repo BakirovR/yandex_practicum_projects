@@ -52,4 +52,4 @@ final_ab_participants.csv — таблица участников тестов.
 Наша задача — провести оценку результатов A/B-теста. В нашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
 
 ## Используемые библиотеки
-* Pandas, Numpy, Matplotlib, Seaborn, Scipy, Datetime, Plotly,  Math  *
+*Pandas, Numpy, Matplotlib, Seaborn, Scipy, Datetime, Plotly,  Math*
