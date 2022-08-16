@@ -53,3 +53,5 @@ final_ab_participants.csv — таблица участников тестов.
 
 ## Используемые библиотеки
 *Pandas, Numpy, Matplotlib, Seaborn, Scipy, Datetime, Plotly,  Math*
+## Статус проекта
+<ul><li>- [x] Завершён</li>
