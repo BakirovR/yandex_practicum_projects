@@ -38,3 +38,5 @@
 
 ## Используемые библиотеки
 *Pandas, Numpy, Matplotlib, Seaborn, Datetime*
+## Статус проекта
+<ul><li>- [x] Завершён</li>
