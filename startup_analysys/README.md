@@ -21,3 +21,5 @@
 
 ## Используемые библиотеки
 *Pandas, Numpy, Matplotlib, Seaborn, Datetime, Io, Requests*
+## Статус проекта
+<ul><li>- [x] Завершён</li>
