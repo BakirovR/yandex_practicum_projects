@@ -17,3 +17,6 @@
 ## Ссылка на дашборд
 
 Дашборд: <https://public.tableau.com/views/bakirov_tableau/DashboardYandex_Dzen?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link>
+
+## Статус проекта
+<ul><li>- [x] Завершён</li>
